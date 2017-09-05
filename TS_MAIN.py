@@ -475,21 +475,3 @@ if __name__=="__main__":
     dlg.show()
     sys.exit(app.exec_())
     
-    @pyqtSignature("")
-    def on_action_triggered(self):
-        """
-        Slot documentation goes here.
-        """
-        # TODO: not implemented yet
-        raise NotImplementedError
-    
-    @pyqtSignature("bool")
-    def on_action_toggled(self, p0):
-        """
-        Slot documentation goes here.
-        
-        @param p0 DESCRIPTION
-        @type bool
-        """
-        # TODO: not implemented yet
-        raise NotImplementedError
