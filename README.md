@@ -8,4 +8,4 @@
 3.软件使用python加QT开发，多线程操作
 
 4.一个小软件，没有什么算法类的高级东西，都是一些抓包模拟请求的东西，还有关于QT的一些界面各种问题与解决方法
-![image](https://github.com/mwq0106/TuoshiLuyouqi/raw/master/readme/C:\Users\mwq\Desktop\20170905232638.bmp)
+![image](https://github.com/mwq0106/TuoshiLuyouqi/raw/master/readme/image/QQ20170905234853.jpg)
