@@ -11,7 +11,6 @@ from Ui_TS import Ui_MainWindow
 from dialog import Dialog
 from Thread import *
 import requests
-
 import re
 import os
 class MainWindow(QMainWindow, Ui_MainWindow):
