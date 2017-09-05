@@ -9,10 +9,7 @@ import json
 import socket
 import uuid
 import time
-#test = "2.4G\xe7\xbd\x91\xe7\xbb\x9c"
-#print type(test)
-#python_to_json = json.dumps(test,ensure_ascii=False)
-#print python_to_json
+
 class canuseThread(QtCore.QThread):
     canuseButtonSignal = QtCore.pyqtSignal(str)
     def __init__(self,parent=None):
